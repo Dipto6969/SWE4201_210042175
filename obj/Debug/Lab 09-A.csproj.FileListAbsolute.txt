@@ -1,0 +1,13 @@
+F:\Visual Studio Projects\Lab 09-A\bin\Debug\Lab 09-A.exe.config
+F:\Visual Studio Projects\Lab 09-A\bin\Debug\Lab 09-A.exe
+F:\Visual Studio Projects\Lab 09-A\bin\Debug\Lab 09-A.pdb
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab 09-A.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab 09-A.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab_09_A.Form1.resources
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab_09_A.Form2.resources
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab_09_A.Form3.resources
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab_09_A.Properties.Resources.resources
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab 09-A.csproj.GenerateResource.cache
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab 09-A.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab 09-A.exe
+F:\Visual Studio Projects\Lab 09-A\obj\Debug\Lab 09-A.pdb
